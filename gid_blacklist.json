@@ -1,7 +1,9 @@
 {
+  "1250539037966602321": {"name": "PheonixDMA", "usage": "DMA Hardware"},
+  "1304854384873705584": {"name": "Ferrum", "usage": "DMA Hardwarer"},
   "1210608092094537768": {"name": "Getality", "usage": "FiveM"},
-  "1045028668050784326": {"name": "Eernal", "usage": "Cheat Reseller"},
-  "1377799431168065540": {"name": "Cheesey", "usage": "Cheat Reseller"},
+  "1045028668050784326": {"name": "Eernal", "usage": "Reseller"},
+  "1377799431168065540": {"name": "Cheesey", "usage": "Reseller"},
   "1116094471814250496": {"name": "AegisFive", "usage": "FiveM"},
   "1115767018214412408": {"name": "Quanta", "usage": "FiveM"},
   "899785629523660881": {"name": "Skript", "usage": "FiveM"},
@@ -18,6 +20,6 @@
   "1183786151618818179": {"name": "Gosth", "usage": "FiveM"},
   "1274689547543773226": {"name": "Flyside", "usage": "FiveM"},
   "905196639445192704": {"name": "TZProject", "usage": "FiveM"},
-  "1274444245184282654": {"name": "Makcu", "usage": "Aim Controller"},
-  "1270986908805107723": {"name": "Occlusion DMA", "usage": "Cheat Reseller"}
+  "1274444245184282654": {"name": "Makcu", "usage": "DMA Hardware"},
+  "1270986908805107723": {"name": "Occlusion DMA", "usage": "DMA Firmware"}
 }
