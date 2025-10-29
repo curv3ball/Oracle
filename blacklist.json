@@ -1,0 +1,32 @@
+{
+    "guilds": {
+        "1314549815601926204":  {"name": "Blurred",         "usage": "FiveM"},
+        "1303697749346095166":  {"name": "KMBox",           "usage": "DMA Hardware"},
+        "1250539037966602321":  {"name": "PheonixDMA",      "usage": "DMA Hardware"},
+        "1304854384873705584":  {"name": "Ferrum",          "usage": "DMA Hardware"},
+        "1210608092094537768":  {"name": "Getality",        "usage": "FiveM"},
+        "1045028668050784326":  {"name": "Eernal",          "usage": "FiveM"},
+        "1377799431168065540":  {"name": "Cheesey",         "usage": "FiveM"},
+        "1116094471814250496":  {"name": "AegisFive",       "usage": "FiveM"},
+        "1115767018214412408":  {"name": "Quanta",          "usage": "FiveM"},
+        "899785629523660881":   {"name": "Skript",          "usage": "FiveM"},
+        "815331538656034816":   {"name": "ProjectCheats",   "usage": "FiveM"},
+        "1040108890248974367":  {"name": "MachoCheats",     "usage": "FiveM"},
+        "954166828177977344":   {"name": "Lumiamenu",       "usage": "FiveM"},
+        "1339265303286583398":  {"name": "Redengine",       "usage": "FiveM"},
+        "946396357613215744":   {"name": "Unicore",         "usage": "FiveM"},
+        "1020532471181361213":  {"name": "Hydrogen",        "usage": "FiveM"},
+        "1136029776080023563":  {"name": "Eulen",           "usage": "FiveM"},
+        "1079619316670021632":  {"name": "Susano",          "usage": "FiveM"},
+        "820848124876685343":   {"name": "HXCheats",        "usage": "FiveM"},
+        "1314957946383237130":  {"name": "Keyser",          "usage": "FiveM"},
+        "1183786151618818179":  {"name": "Gosth",           "usage": "FiveM"},
+        "1274689547543773226":  {"name": "Flyside",         "usage": "FiveM"},
+        "905196639445192704":   {"name": "TZProject",       "usage": "FiveM"},
+        "1274444245184282654":  {"name": "Makcu",           "usage": "DMA Hardware"},
+        "1270986908805107723":  {"name": "Occlusion DMA",   "usage": "DMA Firmware"}
+    },
+    "ips": [
+        "38.0.101.76"
+    ]
+}
